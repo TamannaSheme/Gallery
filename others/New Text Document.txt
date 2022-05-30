@@ -1,0 +1,4 @@
+- Download git: https://github.com/Thomas-Obale/HTML-Starter
+- Comand: npm install gulp-cli -g
+- Comand: npm install
+- Command: gulp Watch
